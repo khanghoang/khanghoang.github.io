@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "my-blog",
-  "alias": "khang.im",
+  "alias": ["khang.im"],
   "builds": [
     {
       "src": "package.json",
