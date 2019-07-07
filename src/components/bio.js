@@ -41,7 +41,7 @@ function Bio() {
               Written by <strong>{author}</strong>, a random software engineer
               who lives and works in San Jose. Sometimes, stuff that he builds 
               works.
-              {` `}
+              <br/>
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow him on Twitter
               </a>
